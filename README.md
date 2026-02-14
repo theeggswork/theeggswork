@@ -1,6 +1,4 @@
 Hi there 👋
 ![mm eggs](https://github.com/theeggswork/theeggswork.github.io/blob/main/StudioName.png)
-
-## mmm its time to learn go (painfully)
-## So far i have like 0 projects so 😔
+## I have 0 Projects but im working on turboconnect i guess
 ## please visit my website https://theeggswork.github.io/
